@@ -2,7 +2,7 @@
 
 ## Part 1: A* Search problem description
 
-![Grid](Search Grid.png)
+![Search Grid](/Search%20Grid.png)
 
 The grids* represent two problem environments where an agent is trying to find a path from the start
 location (S) to the goal location (G). The agent can move to an adjacent square provided the square is white or 
